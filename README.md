@@ -1,6 +1,5 @@
 #  README
 
-readme_content = """
 # API REST - Proof of Concept
 
 This project is a proof of concept that implements a simple REST API using *Spring Boot*. It demonstrates how to expose a basic REST endpoint.
