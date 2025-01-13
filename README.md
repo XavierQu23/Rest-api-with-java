@@ -41,4 +41,8 @@ Steps to Run:
 4. You will receive the following response:
 ```hello everyone, i am xavi```
 
+# RESULTS
+![image](https://github.com/user-attachments/assets/5c0898c4-ac05-421a-974c-808508f84709)
+
+
    
